@@ -14,6 +14,6 @@ Github Setup
 Practice using Github and setting up an account for **Business Analytics Professional Preparation**
 
 ### What I Accomplished
--Setting up Github account
--Learned how to create a sample repository
--Learned how to create headings and bold font
+- Setting up Github account
+- Learned how to create a sample repository
+- Learned how to create headings and bold font
